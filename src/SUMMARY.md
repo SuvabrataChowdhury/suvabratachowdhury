@@ -1,3 +1,3 @@
 # Summary
 
-- [About Me](./about_me.md)
+[About Me](./README.md)

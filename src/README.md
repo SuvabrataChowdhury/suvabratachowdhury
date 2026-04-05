@@ -2,7 +2,7 @@
 
 ## 👋 Hi, I'm Suvabrata Chowdhury
 
-💼 Software Engineer @ SAP  
+💼 Scholar @ SAP  
 📍 Bengaluru, India  
 📧 suvabrata.chowdhury@sap.com  
 
@@ -24,8 +24,7 @@ I like working on problems that improve developer experience, make systems more 
 `Java` `Python` `TypeScript` `JavaScript` `Bash` `C`
 
 ### Frameworks & Tools
-`Spring Boot` `CAP Java` `React` `SAPUI5` `FastMCP`  
-`JUnit 5` `Cucumber` `WDI5`
+`Spring Boot` `CAP Java` `React` `SAPUI5` `FastMCP` `JUnit 5` `Cucumber` `WDI5`
 
 ### DevOps & Platforms
 `GitHub Actions` `Docker` `SAP BTP` `Dynatrace`
@@ -55,8 +54,7 @@ The Heritage Academy — CGPA: 8.86
 
 ## 🎯 Interests
 
-`Distributed Systems` `AI` `Math` `Chess`  
-`Drawing` `Storytelling` `Gaming`
+`Distributed Systems` `AI` `Math` `Chess` `Drawing` `Storytelling` `Gaming`
 
 ---
 
