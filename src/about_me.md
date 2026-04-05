@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Suvabrata Chowdhury
+# About Me
+
+## 👋 Hi, I'm Suvabrata Chowdhury
 
 💼 Software Engineer @ SAP  
 📍 Bengaluru, India  
@@ -8,8 +10,6 @@
 💻 [GitHub](https://github.com/SuvabrataChowdhury)
 
 ---
-
-## 🚀 About Me
 
 I'm a software engineer who enjoys building backend systems and developer tools.  
 Lately, I’ve been exploring areas like distributed systems and AI-driven workflows.
