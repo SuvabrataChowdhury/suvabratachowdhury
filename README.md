@@ -5,7 +5,7 @@
 📧 suvabrata.chowdhury@sap.com  
 
 🔗 [LinkedIn](https://www.linkedin.com/in/suvabrata-chowdhury)  
-💻 [GitHub](https://github.com/SuvabrataChowdhury)
+💻 [GitHub](https://suvabratachowdhury.github.io/suvabratachowdhury/)
 
 ---
 
