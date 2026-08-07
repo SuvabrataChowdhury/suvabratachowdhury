@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Suvabrata Chowdhury
 
-💼 Scholar @ SAP  
+💼 Associate Platform Engineer @ SAP  
 📍 Bengaluru, India  
 📧 suvabrata.chowdhury@sap.com  
 
